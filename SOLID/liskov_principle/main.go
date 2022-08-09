@@ -79,4 +79,8 @@ func main() {
 
 	sq := NewSquare(5)
 	UseIt(sq)
+
+	sq2 := Square2{5}
+	r := sq2.Rectangle()
+	UseIt(&r)
 }

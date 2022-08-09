@@ -16,3 +16,5 @@ vendor/
 
 #MAC OS
 *.DS_Store
+SOLID/.DS_Store
+.DS_Store
