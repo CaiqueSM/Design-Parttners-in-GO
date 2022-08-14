@@ -1,4 +1,4 @@
-package creational_builder
+package creationalBuilder
 
 import (
   "fmt"
